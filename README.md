@@ -4,5 +4,5 @@
 
 ## Stats  
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Grs-grs&bg_color=30,ff073a,0d0d0d&title_color=ff3131&text_color=ffffff" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Grs-grs&bg_color=30,ff073a,0d0d0d&title_color=0d0d0&text_color=ffffff" alt="GitHub Stats">
 </div>
