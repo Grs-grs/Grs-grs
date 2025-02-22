@@ -3,6 +3,8 @@
 </div>
 
 <h2 align="center"> Stats </h2>
-<div align="center">
+<div align="center" >
     <img src="https://github-readme-stats.vercel.app/api?username=Grs-grs&bg_color=30,ff073a,0d0d0d&title_color=000000&text_color=ffffff" alt="GitHub Stats">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grs-grs&layout=donut-vertical)](https://github.com/Grs-grs/github-readme-stats)
+
 </div>
