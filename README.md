@@ -4,7 +4,7 @@
 
 <h2 align="center" style="color:#ff3131;">Stats </h2>
 
-<div align="center" display="flex" justify-content="space-between">
+<div align="center" >
     <img src="https://github-readme-stats.vercel.app/api?username=Grs-grs&bg_color=30,ff073a,0d0d0d&title_color=000000&text_color=ffffff" alt="GitHub Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grs-grs&layout=compact&bg_color=30,ff073a,0d0d0d&title_color=000000&text_color=ffffff" alt="Top Langs">
 </div>
