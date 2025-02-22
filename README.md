@@ -1,3 +1,4 @@
 <div align="center">
-  ![teste](https://giphy.com/gifs/cyberpunkgame-cyberpunk-cyberpunk2077-2077-JTheOT8fz6vMzQeFmB)
+  ![Netrunner](https://github.com/user-attachments/assets/244cb598-3191-4681-b794-2c2089e74c2b)
 </div>
+
