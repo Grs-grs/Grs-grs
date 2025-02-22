@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  ## Stats 
+## Stats 
     ![{Grs-grs} GitHub stats](https://github-readme-stats.vercel.app/api?username={usuario}&bg_color=30,ff073a,0d0d0d&title_color=ff3131&text_color=ffffff)
 </div>
 
