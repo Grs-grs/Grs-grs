@@ -1,7 +1,7 @@
 <!-- First banner image -->
 <div align="center">
   <img 
-    src="https://i.pinimg.com/originals/b1/28/e1/b128e189e73a0e6c34c1609260755f46.png" 
+    src="red_hood.png" 
     alt="red hood banner."
     width="100%"
     style="max-height: 320px; object-fit: cover; object-position: 50% 25%"
