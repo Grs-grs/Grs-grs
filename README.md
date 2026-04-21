@@ -1,20 +1,20 @@
 <!-- First banner image -->
 <div align="center">
-<img 
+  <img 
     src="https://i.pinimg.com/originals/b1/28/e1/b128e189e73a0e6c34c1609260755f46.png" 
-    alt="red hood banner." 
-    width="100%" 
+    alt="red hood banner."
+    width="100%"
     style="max-height: 320px; object-fit: cover; object-position: 50% 25%"
   />
 </div>
+
 <!-- second banner image -->
 <div align="center">
   <img
     alt="katana with blood dripping from it."
-    src="https://i.pinimg.com/originals/2a/79/66/2a7966fa58c44a64c32e8962f185d83f.gif" 
+    src="https://i.pinimg.com/originals/2a/79/66/2a7966fa58c44a64c32e8962f185d83f.gif"
     width="100%"
-    style=""
-    />
+  />
 </div>
 
 <!-- minibio -->
@@ -40,38 +40,38 @@
 <!-- end minibio -->
 
 ---
-<!-- detailed bio -->
 
-## `root@github # whoami`
-- 🪖 Ex-military with hands-on experience in discipline, operations, troubleshooting, and IT support.
-- 🎓 Cybersecurity student focused on building a strong path through infrastructure, defense security, networking, and practical labs.
-- 🐧 Linux enthusiast who enjoys terminals, ricing, low-level troubleshooting, and learning by doing.
-- 🌐 Network enjoyer with interest in routing, switching, segmentation, services, hardening, and network security.
-- 💻 Developer mindset for automation, internal tools, and backend-oriented problem solving.
-- 🔴 Interested in offensive security, recon, enumeration, web security, and adversarial thinking.
-- 🔵 Also building blue team foundations with visibility, detection mindset, Windows environments, event analysis, and defensive tooling.
-
----
-
-## `# cat profile.txt`
+## `Grs-grs@github:~$ gobuster dir -u https://profile.life/ -w /usr/share/seclists/Discovery/Web-Content/common.txt -s 200`
 
 ```txt
-Name............. Gabriel Resende da Silva
-Role............. Cybersecurity Student
-Background....... Ex-Military | IT Support | Infra/Security-oriented
-Current focus.... Blue Team fundamentals, Networks, Linux, Cyber labs
-Long-term path... Cybersecurity | Network Security | SOC | Purple Team | Security Engineering
-``` 
+===============================================================
+Gobuster v3.x
+===============================================================
+/name................. Gabriel Resende da Silva (Status: 200)
+/role................. Cybersecurity Student (Status: 200)
+/background........... Ex-Military | IT Support | Infra/Security-oriented (Status: 200)
+/current-focus........ Blue Team fundamentals | Networks | Linux | Cyber labs | Programming (Status: 200)
+/long-term-path....... Cybersecurity | Network Security | SOC | Purple Team | Security Engineering (Status: 200)
+===============================================================
+```
 
 ---
 
-## `# ls stacks/`
+## `Grs-grs@github:~$ msfconsole -q`
+
+```txt
+msf6 > show exploits
+
+[*] Loading modules...
+
+Available skill modules
+=======================
+```
 
 <table>
   <tr>
     <td valign="top" width="33%">
---- 
-      
+
 ### Dev Stack
 <p>
   <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ff003c" />
@@ -85,7 +85,6 @@ Long-term path... Cybersecurity | Network Security | SOC | Purple Team | Securit
   <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=ff003c" />
   <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ff003c" />
 </p>
-
 
 **Focus:** backend foundations, APIs, automation, tooling, and infra-friendly development.
 
@@ -108,7 +107,6 @@ Long-term path... Cybersecurity | Network Security | SOC | Purple Team | Securit
 </td>
 <td valign="top" width="33%">
 
-
 ### Blue Team Stack
 <p>
   <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-0d1117?style=for-the-badge" />
@@ -121,47 +119,49 @@ Long-term path... Cybersecurity | Network Security | SOC | Purple Team | Securit
   <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=ff003c" />
 </p>
 
-
-**Focus:** defensive fundamentals, visibility, Windows internals, ATT&CK mapping and practical investigation mindset.
+**Focus:** defensive fundamentals, visibility, Windows internals, ATT&CK mapping, and practical investigation mindset.
 
 </td>
   </tr>
 </table>
 
----
-
-## `# grep -A 10 -iE "^##.*experience|Ex-Military|Cybersecurity" life.md `
-
-- **Ex-Military / IT support background** with practical exposure to discipline, operations, and troubleshooting under pressure.
-- **Cybersecurity student** building foundations across Linux, networking, blue team, web security, and lab-based learning.
-- **Hands-on learner** using labs, CTFs, packet analysis, vulnerability assessment, and self-driven study projects.
-
----
-
-## `# grep -R "interests" ./future`
-
-- Network Security
-- SOC / Detection / Incident Response foundations
-- Linux and system hardening
-- Security engineering
-- Purple Team growth
-- DevSecOps and cloud security
-- Offensive security labs and adversarial simulation
-
----
-
-## `# tree current_focus/`
-
 ```txt
-current_focus/
-├── CCNA and networking fundamentals
-├── Linux administration and troubleshooting
-├── Blue Team mindset and ATT&CK-based study
-├── Web enumeration and offensive basics
-├── Backend and automation with Python / TS
-└── Building a strong bridge between infra and cyber
+[*] Module arsenal loaded successfully.
+msf6 > _
 ```
 
+---
 
-<!-- end detailed bio -->
+## `Grs-grs@github:~$ gobuster dir -u https://future.targets/ -w /usr/share/seclists/Discovery/Web-Content/common.txt -s 503`
 
+```txt
+===============================================================
+Gobuster v3.x
+===============================================================
+/network-security.............. Network Security (Status: 503)
+/soc-ir........................ SOC | Detection | Incident Response foundations (Status: 503)
+/linux-hardening............... Linux and system hardening (Status: 503)
+/security-engineering.......... Security engineering (Status: 503)
+/purple-team................... Purple Team (Status: 503)
+/devsecops-cloud............... DevSecOps and cloud security (Status: 503)
+/offensive-security-labs....... Offensive security labs and adversarial simulation (Status: 503)
+/defensive-security-labs....... Defensive security labs (Status: 503)
+===============================================================
+```
+
+---
+
+## `Grs-grs@github:~$ gobuster dir -u https://current-focus.life/ -w /usr/share/seclists/Discovery/Web-Content/common.txt -s 202`
+
+```txt
+===============================================================
+Gobuster v3.x
+===============================================================
+/ccna-fundamentals............. CCNA and networking fundamentals (Status: 202)
+/linux-administration.......... Linux administration and troubleshooting (Status: 202)
+/blue-team-mitre............... Blue Team mindset and ATT&CK-based study (Status: 202)
+/web-enumeration............... Web enumeration and offensive basics (Status: 202)
+/backend....................... Backend with Python / TS (Status: 202)
+/infra-plus-cyber.............. Building a strong bridge between infra and cyber (Status: 202)
+===============================================================
+```
