@@ -41,18 +41,26 @@
 
 ---
 
-## `Grs-grs@github:~$ gobuster dir -u https://profile.life/ -w /usr/share/seclists/Discovery/Web-Content/common.txt -s 200`
+## `Grs-grs@github:~$ nmap -sC -sV -Pn profile.life`
 
 ```txt
-===============================================================
-Gobuster v3.x
-===============================================================
-/name................. Gabriel Resende da Silva (Status: 200)
-/role................. Cybersecurity Student (Status: 200)
-/background........... Ex-Military | IT Support | Infra/Security-oriented (Status: 200)
-/current-focus........ Blue Team fundamentals | Networks | Linux | Cyber labs | Programming (Status: 200)
-/long-term-path....... Cybersecurity | Network Security | SOC | Purple Team | Security Engineering (Status: 200)
-===============================================================
+Starting Nmap 7.95 ( https://nmap.org ) at 2026
+Nmap scan report for profile.life
+Host is up (0.0010s latency).
+
+PORT      STATE SERVICE         VERSION
+22/tcp    open  identity-ssh    Gabriel Resende da Silva
+80/tcp    open  role-http       Cybersecurity Student
+111/tcp   open  background-rpc  Ex-Military | IT Support 
+443/tcp   open  focus-https     Blue Team fundamentals | Networks | Linux | Cyber Labs | Programming
+8080/tcp  open  career-proxy    Cybersecurity | Network Security | SOC | Purple Team | Security Engineering
+
+Service Info: OS: Debian Linux; CPE: cpe:/o:linux:linux_kernel
+Host Script Results:
+|_mindset: disciplined | hands-on | resilient
+
+Service detection performed. Please report any incorrect results.
+Nmap done: 1 IP address (1 host up) scanned in 0.42 seconds
 ```
 
 ---
