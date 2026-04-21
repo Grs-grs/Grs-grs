@@ -52,7 +52,7 @@ PORT      STATE SERVICE         VERSION
 22/tcp    open  identity-ssh    Gabriel Resende da Silva
 80/tcp    open  role-http       Cybersecurity Student
 111/tcp   open  background-rpc  Ex-Military | IT Support 
-443/tcp   open  focus-https     Blue Team fundamentals | Networks | Linux | Cyber Labs | Programming
+443/tcp   open  focus-https     Blue Team fundamentals | Networks | Linux | Infrastructure | Programming
 8080/tcp  open  career-proxy    Cybersecurity | Network Security | SOC | Purple Team | Security Engineering
 
 Service Info: OS: Debian Linux; CPE: cpe:/o:linux:linux_kernel
