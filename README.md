@@ -115,11 +115,8 @@ Available skill modules
 
 ### Blue Team Stack
 <p>
-  <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CAPA-0d1117?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Windows%20AD-0d1117?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Windows%20Sysinternals-0d1117?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Event%20Logs-0d1117?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Splunk-0d1117?style=for-the-badge&logo=splunk&logoColor=ff003c" />
   <img src="https://img.shields.io/badge/Snort-0d1117?style=for-the-badge&logo=snort&logoColor=ff003c" />
   <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=ff003c" />
